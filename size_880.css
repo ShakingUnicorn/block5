@@ -1,0 +1,58 @@
+@media screen and (max-width:880px) {
+.container {
+padding: 20px 30px; }
+
+.to_do_list {
+margin-right: 40px; }
+
+h2 {font-size: 30px; }
+
+img {
+width: 45px;}
+
+header {
+margin-top: 33px; }
+
+.time span:after {left: 75px;}
+
+.sophia {
+top: 190px;}
+
+.studio{
+top: 404px;}
+
+.workshop{
+top: 835px; }
+
+.calendar {
+padding: 25px 30px;}
+
+.months {
+margin-top: 0px;}
+
+.months button img {
+width: 25px;}
+
+.days {
+padding-bottom: 60px;
+font-size: 10px;}
+
+.dates {
+padding-bottom: 40px;
+font-size: 15px;}
+
+.calendar .my_categories {
+position: static;
+display: flex;
+align-items: center;
+justify-content: center;}
+
+.categories {
+display: flex;
+flex-direction: column;
+align-items: center; }
+
+.categories a {
+width: 80%;
+font-size: 14px;}
+}

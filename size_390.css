@@ -1,0 +1,70 @@
+@media screen and (max-width:390px) {
+.container {
+padding: 10px 20px; }
+
+.to_do_list {
+margin-right: 12px; }
+
+h2 {font-size: 10px;
+justify-content: center;}
+
+img {
+width: 10px;}
+
+header {
+margin-top: 20px; }
+
+.time span:after {left: 75px;}
+
+.time
+{ font-size: 7px}
+
+.sophia {
+top: 150px;
+font-size: 7px}
+
+.studio{
+top: 350px;
+font-size: 7px}
+
+.workshop{
+top: 850px;
+font-size: 7px }
+
+.calendar {
+padding: 25px 30px;}
+
+.months {
+margin-top: 0px;}
+
+.months button img {
+width: 10px;}
+
+.days {
+padding-bottom: 3px;
+font-size: 5px;
+justify-content: center;}
+
+.dates {
+padding-bottom: 10px;
+font-size: 5px;}
+
+.calendar .my_categories {
+position: static;
+display: flex;
+align-items: center;
+justify-content: center;}
+
+.my_categories {
+font-size: 7px;}
+    
+
+.categories {
+display: flex;
+flex-direction: column;
+align-items: center; }
+
+.categories a {
+width: 80%;
+font-size: 5px;}
+}
